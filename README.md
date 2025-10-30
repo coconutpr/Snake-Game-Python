@@ -32,8 +32,11 @@ SnakeGame.exe
 📦 Estructura del projecte
 snake_game/
 │
+
 ├── snake.py              # Codi font del joc
+
 ├── SnakeGame.exe         # Executable (opcional)
+
 └── README.md             # Aquest fitxer
 
 📜 Llicència
